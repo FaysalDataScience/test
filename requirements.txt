@@ -3,7 +3,7 @@ seaborn
 matplotlib
 numpy
 scipy
-sklearn
+scikit-learn
 imblearn
 pickle
 streamlit
