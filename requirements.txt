@@ -5,5 +5,5 @@ numpy
 scipy
 scikit-learn
 imblearn
-pickle
+pickle-mixin
 streamlit
